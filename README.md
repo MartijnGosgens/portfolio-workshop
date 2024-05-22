@@ -1,3 +1,15 @@
+# YoungKWG Day - Build your own portfolio website
+
+This repository is a slight adaptation of the [resume template](https://startbootstrap.com/theme/resume) from [Start Bootstrap](https://startbootstrap.com/). See the [original GitHub repository](https://github.com/startbootstrap/startbootstrap-resume)  for additional instructions.
+
+Here are some links that will be used throughout the workshop:
+
+* [Google Sites](https://sites.google.com/)
+* [Create](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) a Github account
+* Info about [GitHub Pages](https://pages.github.com/)
+* The [academicpages GitHub template](https://github.com/academicpages/academicpages.github.io)
+* The [original GitHub repository](https://github.com/startbootstrap/startbootstrap-resume)  of this template.
+
 # [Start Bootstrap - Resume](https://startbootstrap.com/theme/resume/)
 
 [Resume](https://startbootstrap.com/theme/resume/) is a resume and CV theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
